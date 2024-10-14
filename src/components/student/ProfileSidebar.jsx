@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "../ui/button";
 import { Edit, Lock } from "lucide-react"; // Importing icons from lucide-react
 import Link from "next/link";
 

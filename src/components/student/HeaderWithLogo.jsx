@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Bell } from "lucide-react";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
-import { Button } from "@/components/ui/button";
+import { Button } from "../ui/button";
 import NotificationSidebar from "./NotificationSidebar";
 import ProfileSidebar from "./ProfileSidebar"; // Import Profile Sidebar
 import Link from "next/link";
