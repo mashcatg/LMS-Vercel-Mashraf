@@ -1,16 +1,16 @@
 "use client";
 
 import React, { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+import { Button } from "../ui/button";
+import { Input } from "../ui/input";
 import {
   Card,
   CardContent,
   CardHeader,
   CardTitle,
   CardFooter,
-} from "@/components/ui/card";
-import { ScrollArea } from "@/components/ui/scroll-area";
+} from "../ui/card";
+import { ScrollArea } from "../ui/scroll-area";
 import { Paperclip } from "lucide-react";
 
 const initialMessages = [
