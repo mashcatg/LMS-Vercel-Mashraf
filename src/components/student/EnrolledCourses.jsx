@@ -1,6 +1,6 @@
-import { Button } from "@/components/ui/Button";
+import { Button } from "../ui/Button";
 import { School, BookPlus, ChevronRight } from "lucide-react";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { Card, CardHeader, CardTitle, CardContent } from "../ui/card";
 import Link from "next/link";
 
 const courses = [
